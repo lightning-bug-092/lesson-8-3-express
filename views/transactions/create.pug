@@ -1,0 +1,15 @@
+h1 Create transactions
+form(method="post")
+    label  Books:
+    select(name="bookId")
+        each book in books
+            option(value=book.id) 
+                span=book.title
+    span &nbsp;&nbsp;&nbsp;&nbsp;
+    label Users:
+    select(name="userId")
+        each user in users
+            option(value=user.id) 
+                span=user.name
+    span &nbsp;&nbsp;&nbsp;&nbsp;
+    button Create
