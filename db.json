@@ -1,0 +1,21 @@
+{
+  "books": [
+    {
+      "title": "Hỗ trợ CSS",
+      "description": "asd",
+      "id": "rUhjoNmxS"
+    }
+  ],
+  "users": [
+    {
+      "name": "Phạm Minh Hiếu",
+      "phoneNumber": "0396275692",
+      "id": "hcOeWvLLR"
+    },
+    {
+      "name": "Đinh Trọng Luân",
+      "phoneNumber": "123",
+      "id": "7iegpaKyn"
+    }
+  ]
+}
